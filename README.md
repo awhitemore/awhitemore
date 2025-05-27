@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there! I'm Alfie Whitemore
 
-<!--
-**awhitemore/awhitemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a junior at the **University of Colorado Boulder**, majoring in **Computer Science** with a minor in **Statistics**.  
 
-Here are some ideas to get you started:
+🔬 I'm passionate about exploring the intersection of **machine learning**, **cybersecurity**, and **low-level programming**. Right now, I’m building a **convolutional neural network from scratch in C++**, deepening my understanding of both neural architectures and systems-level development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 Strong interest in **machine learning**, **neural networks**, and **cybersecurity**
+- 💻 Proficient in **C++** and **Python**
+- 📊 Curious about how **data and statistics** can drive smarter systems
+- 🔍 Always eager to collaborate and contribute to interesting open-source projects
+
+---
+
+## 🛠️ Current Projects
+
+- 🧠 **CNN From Scratch (C++)**: Implementing a convolutional neural network from the ground up using no external ML libraries – focusing on both accuracy and performance
+- 🤖 Exploring lightweight **ML models** for embedded systems
+- 🔐 Studying how **ML can be applied in cybersecurity**, such as anomaly detection and automated threat analysis
+
+---
+
+## 🌱 What I'm Looking For
+
+I'm open to working on:
+- 🧠 Machine Learning applications and research
+- 🔒 Cybersecurity tools and frameworks
+- ⚙️ Low-level system programming projects
+- 🤝 Any collaborative learning-focused initiatives!
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: alwh8829@colorado.edu
+
+Thanks for stopping by! Let's build something cool together. 🚀
